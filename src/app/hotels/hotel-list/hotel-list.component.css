@@ -1,0 +1,14 @@
+.filter {
+    color: #bbb;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* .badge {
+    color: #EEEE18;
+    background: #40B0FE;
+} */
+
+* {
+    overflow: hidden;
+}
